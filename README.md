@@ -15,14 +15,15 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Arista|Cancelled||
 |Blackbaud|Cancelled|Open full time offers are also cancelled|
 |Boston Scientific|Cancelled||
+|Delta Airlines|Cancelled||
 |Echostar|Cancelled||
 |Funding Circle|Cancelled||
 |Gartner|Cancelled||
 |GoCanvas|Cancelled||
 |Groupon|Cancelled||
-|IDEMIA|Cancelled|
+|IDEMIA|Cancelled||
 |IDEO|Cancelled|Ideo.org too|
-|iHeartMedia|Cancelled|
+|iHeartMedia|Cancelled||
 |InterSystems|Cancelled|
 |Kayak|Cancelled||
 |LendingClub|Cancelled||
@@ -43,6 +44,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Uplift|Cancelled||
 |Urban Outfitters|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
+|Volvo|Cancelled||
 |WillowTree|Cancelled||
 |Workday|Cancelled|Needs confirmation from others|
 |Yelp|Cancelled||
@@ -60,7 +62,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Apple|Not Cancelled|Starting remotely for now|
 |Atlassian|Not Cancelled|Update expected next week (Around April 3rd)|
 |Bloomberg|Not Cancelled|Updated expected in 2 weeks max (April 7th)|
-|Capital One|Not Cancelled||
+|Capital One|Not Cancelled|Delay on interviews for TDP|
 |Carvana|Not Cancelled|Hiring Freeze|
 |Cisco|Not Cancelled|Remote Likely|
 |Citadel|Not Cancelled|WFH Possible|
